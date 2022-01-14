@@ -10,5 +10,3 @@ xanim,pb_stand_death_neckdeath
 xanim,pb_stand_death_neckdeath_thrash
 xanim,pb_stand_death_nervedeath
 xanim,pb_stand_death_spin
-rawfile,mp/playeranim.script
-rawfile,mp/playeranimtypes.txt
