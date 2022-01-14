@@ -11,7 +11,7 @@
 1. Drag Cod4BetterAnims into mod folder
 2. run makemodv2.bat (made by Gmzorz) and press 1 and follow steps
 3. drag the load.ff's into zone/english
-4. now you can use other mods while haveing the anims changed!
+4. now you can use other mods while having the anims changed!
 
 ## Todo
 * Make Promo Video
