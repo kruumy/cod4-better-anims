@@ -1,6 +1,10 @@
 xanim,pb_crouch_death_clutchchest
 xanim,pb_death_run_onfront
+xanim,pb_death_run_forward_crumple
+xanim,pb_death_run_stumble
 xanim,pb_death_run_right
+xanim,pb_death_run_left
+xanim,pb_death_run_back
 xanim,pb_stand_death_frontspin
 xanim,pb_stand_death_headchest_topple
 xanim,pb_stand_death_head_collapse
