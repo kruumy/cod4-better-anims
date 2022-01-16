@@ -14,7 +14,7 @@
 4. now you can use other mods while having the anims changed!
 
 ## Todo
-* Make Promo Video
+* Fix bug where first frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
 * Label each anim to make it easier to replace and add your own
 
 
