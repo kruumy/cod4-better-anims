@@ -19,3 +19,4 @@ xanim,pb_stand_death_neckdeath
 xanim,pb_stand_death_neckdeath_thrash
 xanim,pb_stand_death_nervedeath
 xanim,pb_stand_death_spin
+rawfile,maps/mp/gametypes/_weapons.gsc
