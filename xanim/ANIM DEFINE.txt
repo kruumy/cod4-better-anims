@@ -4,7 +4,6 @@ pb_crouchrun_death_drop = mw2, leg_kickup
 pb_crouch_death_clutchchest = fall, rollonground
 pb_crouch_death_falltohands = mw2, leg_kickup
 pb_crouch_death_fetal = mw3, hands on face
-pb_crouch_death_flip = pb_crouch_death_flip
 pb_crouch_death_headshot_front = fall to knees, look at hands
 
 pb_death_run_back = mw3, hands on face
