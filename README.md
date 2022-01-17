@@ -1,6 +1,6 @@
 # Cod4BetterAnims
 #### Replaces the death anims in cod4 with better ones.
-##### I do not own the weapons.gsc file, I believe starker made that, it is simply responsible for adding the holdguns mod.
+##### Note: I do not own the weapons.gsc file, I believe starker made that, it is simply responsible for adding the holdguns mod.
 https://youtu.be/6CbKWcWjmKs
 
 ***
