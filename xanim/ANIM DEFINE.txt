@@ -1,21 +1,23 @@
-pb_crouchrun_death_crumple = expolosion_360spin
+pb_prone_death_quickdeath = bo2,pronedeath
+
+pb_crouchrun_death_crumple = bo2,cheadshotfront
 pb_crouchrun_death_drop = mw2, leg_kickup
 
 pb_crouch_death_clutchchest = fall, rollonground
 pb_crouch_death_falltohands = mw2, leg_kickup
-pb_crouch_death_flip = mw2,slowfall
+pb_crouch_death_flip = bo2,cheadshotfront
 pb_crouch_death_fetal = mw3, hands on face
 pb_crouch_death_headshot_front = fall to knees, look at hands
 
 pb_death_run_back = mw3, hands on face
 pb_death_run_forward_crumple = fall, rollonground
-pb_death_run_left = stankly leg
+pb_death_run_left = bo2,shieldbash_back
 pb_death_run_onfront = mw2, leg_kickup
 pb_death_run_right = bo1, slipforward
 pb_death_run_stumble = mw2,slowfall
 
 pb_stand_death_frontspin = fast_360spin
-pb_stand_death_headchest_topple = goofy stumble forward
+pb_stand_death_headchest_topple = bo2,shieldbash_back
 pb_stand_death_head_collapse = mw3, hands on face
 pb_stand_death_legs = bo1 blowback
 pb_stand_death_lowerback = mw2, leg_kickup
