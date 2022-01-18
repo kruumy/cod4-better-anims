@@ -3,7 +3,7 @@
 ##### Note: I do not own the weapons.gsc file, I believe starker made that, it is simply responsible for adding the holdguns mod.
 https://youtu.be/6CbKWcWjmKs
 ![previewphotobykremlin](https://github.com/kruumy/Cod4BetterAnims/blob/main/preview.png)
-_Photo By Kremlin
+_photo by kremlin_
 
 ***
 
