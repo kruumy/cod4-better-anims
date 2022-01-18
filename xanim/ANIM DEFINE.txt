@@ -3,6 +3,7 @@ pb_crouchrun_death_drop = mw2, leg_kickup
 
 pb_crouch_death_clutchchest = fall, rollonground
 pb_crouch_death_falltohands = mw2, leg_kickup
+pb_crouch_death_flip = mw2,slowfall
 pb_crouch_death_fetal = mw3, hands on face
 pb_crouch_death_headshot_front = fall to knees, look at hands
 
@@ -11,7 +12,7 @@ pb_death_run_forward_crumple = fall, rollonground
 pb_death_run_left = stankly leg
 pb_death_run_onfront = mw2, leg_kickup
 pb_death_run_right = bo1, slipforward
-pb_death_run_stumble = mw2, leg_kickup
+pb_death_run_stumble = mw2,slowfall
 
 pb_stand_death_frontspin = fast_360spin
 pb_stand_death_headchest_topple = goofy stumble forward
@@ -20,5 +21,5 @@ pb_stand_death_legs = bo1 blowback
 pb_stand_death_lowerback = mw2, leg_kickup
 pb_stand_death_neckdeath = mw2, leg_kickup
 pb_stand_death_neckdeath_thrash = hit in shoulder, stand, rotate
-pb_stand_death_nervedeath = fall to knees, look at hands
+pb_stand_death_nervedeath = mw2,slowfall
 pb_stand_death_spin = fall, rollonground
