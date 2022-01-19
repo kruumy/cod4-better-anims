@@ -10,7 +10,7 @@ _photo by kremlin_
 ## Installation
 1. Drag Cod4BetterAnims into mod folder
 2. Start the game and select the mod
-**
+
 ## Installation 2
 1. Drag Cod4BetterAnims into mod folder
 2. Run makemodv2.bat (made by Gmzorz) and press 1 and follow steps
