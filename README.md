@@ -21,7 +21,9 @@ _photo by kremlin_
 1. [Download](https://drive.google.com/file/d/12dVB-HZ2b5CNN9fLTgQW_CGz4RNVM6MA) my mirror of the original load.ff files
 2. Drag the load.ff's into zone/english to replace the modded ones
 
-## Known Bugs
+***
+
+### Known Bugs
 * Fix bug where first frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
 * Fix missplaced gun on some of the bo2 anims (Holdgun version only)
 
