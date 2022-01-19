@@ -18,6 +18,10 @@ _photo by kremlin_
 3. drag the load.ff's into zone/english
 4. now you can use other mods while having the anims changed!
 
+## Uninstallation For Method 2
+1. [Download](https://drive.google.com/file/d/12dVB-HZ2b5CNN9fLTgQW_CGz4RNVM6MA) my mirror of the original load.ff files
+2. Replace the load.ff's into zone/english to replace the modded ones
+
 ## Todo
 * Fix bug where first frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
 * Fix missplaced gun on some of the bo2 anims
