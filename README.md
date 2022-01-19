@@ -24,7 +24,7 @@ _photo by kremlin_
 ***
 
 ### Known Bugs
-* Fix bug where first frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
-* Fix missplaced gun on some of the bo2 anims (Holdgun version only)
+* First frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
+* Missplaced gun on some of the bo2 anims (Holdgun version only)
 
 
