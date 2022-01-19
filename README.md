@@ -23,6 +23,6 @@ _photo by kremlin_
 
 ## Todo
 * Fix bug where first frame of anim is bugged, dm me if you know how to fix. Isn't too much of an issue though.
-* Fix missplaced gun on some of the bo2 anims
+* Fix missplaced gun on some of the bo2 anims (Holdgun version only)
 
 
