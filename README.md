@@ -1,6 +1,6 @@
 # Cod4BetterAnims Beta
 #### Replaces the death anims in cod4 with better ones.
-###### Note: I do not own the weapons.gsc file, I believe starker made that, it is simply responsible for adding the holdguns mod.
+###### I do not own the weapons.gsc file, I believe starker made that, it is simply responsible for adding the holdguns mod.
 ###### Also this is a beta. There are many issues still. Use only if you understand it's not perfect yet.
 [![previewphotobykremlin](https://github.com/kruumy/Cod4BetterAnims/blob/main/preview.png)](https://youtu.be/6CbKWcWjmKs)
 _photo by kremlin_
