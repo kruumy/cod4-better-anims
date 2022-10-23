@@ -1,7 +1,3 @@
-rawfile,maps/mp/gametypes/_weapons.gsc
-material,fx_maney
-fx,impacts/flesh_hit_body_fatal_exit
-xmodel,fx_money_susel
 xanim,pb_crouchrun_death_crumple
 xanim,pb_crouchrun_death_drop
 xanim,pb_crouch_death_clutchchest
@@ -16,6 +12,7 @@ xanim,pb_death_run_onfront
 xanim,pb_death_run_right
 xanim,pb_death_run_stumble
 xanim,pb_prone_death_quickdeath
+xanim,pb_sprint_pistol
 xanim,pb_stand_death_frontspin
 xanim,pb_stand_death_headchest_topple
 xanim,pb_stand_death_head_collapse
@@ -24,5 +21,3 @@ xanim,pb_stand_death_lowerback
 xanim,pb_stand_death_neckdeath
 xanim,pb_stand_death_neckdeath_thrash
 xanim,pb_stand_death_nervedeath
-xanim,pb_stand_death_spin
-xanim,pb_laststand_idle
