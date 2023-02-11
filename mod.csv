@@ -12,7 +12,6 @@ xanim,pb_death_run_onfront
 xanim,pb_death_run_right
 xanim,pb_death_run_stumble
 xanim,pb_prone_death_quickdeath
-xanim,pb_sprint_pistol
 xanim,pb_stand_death_frontspin
 xanim,pb_stand_death_headchest_topple
 xanim,pb_stand_death_head_collapse
